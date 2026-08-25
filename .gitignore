@@ -1,0 +1,6 @@
+node_modules/
+backend/src/db/database.sqlite
+backend/src/db/database.sqlite-shm
+backend/src/db/database.sqlite-wal
+client/dist/
+.env
