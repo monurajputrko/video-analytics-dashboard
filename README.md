@@ -37,9 +37,9 @@ npm run build
 
 Replace the placeholders below before submitting:
 
-- **Public GitHub repository:** [`Repo](https://github.com/monurajputrko/video-analytics-dashboard)`
-- **30-second YouTube pitch (Private or Unlisted):** [`pitch](https://youtube.com/shorts/VIZYZruRJHU?feature=share)`
-- **Technical walkthrough (Loom or screen recording):** [`Technical walkthrough](https://www.loom.com/share/6c35761a289c4dea8167feb791a0f461)`
+- **Public GitHub repository:** [Repo](https://github.com/monurajputrko/video-analytics-dashboard)
+- **30-second YouTube pitch (Private or Unlisted):** [pitch](https://youtube.com/shorts/VIZYZruRJHU?feature=share)
+- **Technical walkthrough (Loom or screen recording):** [Technical walkthrough](https://www.loom.com/share/6c35761a289c4dea8167feb791a0f461)
 
 The implementation checklist is covered by [AI_PROMPTING.md](AI_PROMPTING.md), the normalized SQLite schema in `backend/src/db/schema.sql`, the API integration tests in `backend/tests/analytics.test.js`, and the React dashboard in `client/src/`.
 
